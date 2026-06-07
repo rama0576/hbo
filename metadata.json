@@ -1,0 +1,6 @@
+{
+  "name": "UMMISCO Portal",
+  "description": "Portail Institutionnel et Scientifique de l'UMMISCO - Plateforme de gestion de la recherche, publications, projets, datasets et workflows scientifiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
